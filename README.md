@@ -7,7 +7,7 @@
 
 ## About this project
 For this project, I have decided to create a simple student database app using React frontend and Ruby Sinatra backend.
-I figured that it would be useful for me later on since I work at a middle school as a part-time IT tech.
+I figured that it would be useful to me majorly because am planning to be an IT Technician in the nearby school in the future.
 Here's my simple looking graphical user interface created with React framework.
 <div align="center">
 <img src="https://user-images.githubusercontent.com/64029918/158064332-a01d89a8-c376-400b-b827-bddddc1583a7.png" width="600" height="400">
@@ -92,4 +92,7 @@ npm start
 ```
 
 ### License
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+Copyright (c) [2022] [Cecilia Anyega] Any person obtaining a copy of this software and associated documentation files is granted permission free of charge. That is; no limitation to copy,modify publish,merge,the rights to use, distribute and sell Software copies: The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANT-ABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
