@@ -14,7 +14,7 @@ use Rack::JSONBodyParser
 
 # Our application
 run ApplicationController
-use AppointmentsController
-use SchoolsController
-use StudentsController
-use TeachersController
+# use AppointmentsController
+# use SchoolsController
+# use StudentsController
+# use TeachersController
